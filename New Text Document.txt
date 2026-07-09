@@ -1,3 +1,4 @@
 Doing changes to fetch
 commit changes
 just checckig
+git fetch checking
